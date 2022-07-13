@@ -1,0 +1,15 @@
+C:\Users\13035\OneDrive\Рабочий стол\Git\Seminars\Seminar_5.1\bin\Debug\net6.0\Seminar_5.1.exe
+C:\Users\13035\OneDrive\Рабочий стол\Git\Seminars\Seminar_5.1\bin\Debug\net6.0\Seminar_5.1.deps.json
+C:\Users\13035\OneDrive\Рабочий стол\Git\Seminars\Seminar_5.1\bin\Debug\net6.0\Seminar_5.1.runtimeconfig.json
+C:\Users\13035\OneDrive\Рабочий стол\Git\Seminars\Seminar_5.1\bin\Debug\net6.0\Seminar_5.1.dll
+C:\Users\13035\OneDrive\Рабочий стол\Git\Seminars\Seminar_5.1\bin\Debug\net6.0\Seminar_5.1.pdb
+C:\Users\13035\OneDrive\Рабочий стол\Git\Seminars\Seminar_5.1\obj\Debug\net6.0\Seminar_5.1.csproj.AssemblyReference.cache
+C:\Users\13035\OneDrive\Рабочий стол\Git\Seminars\Seminar_5.1\obj\Debug\net6.0\Seminar_5.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\13035\OneDrive\Рабочий стол\Git\Seminars\Seminar_5.1\obj\Debug\net6.0\Seminar_5.1.AssemblyInfoInputs.cache
+C:\Users\13035\OneDrive\Рабочий стол\Git\Seminars\Seminar_5.1\obj\Debug\net6.0\Seminar_5.1.AssemblyInfo.cs
+C:\Users\13035\OneDrive\Рабочий стол\Git\Seminars\Seminar_5.1\obj\Debug\net6.0\Seminar_5.1.csproj.CoreCompileInputs.cache
+C:\Users\13035\OneDrive\Рабочий стол\Git\Seminars\Seminar_5.1\obj\Debug\net6.0\Seminar_5.1.dll
+C:\Users\13035\OneDrive\Рабочий стол\Git\Seminars\Seminar_5.1\obj\Debug\net6.0\refint\Seminar_5.1.dll
+C:\Users\13035\OneDrive\Рабочий стол\Git\Seminars\Seminar_5.1\obj\Debug\net6.0\Seminar_5.1.pdb
+C:\Users\13035\OneDrive\Рабочий стол\Git\Seminars\Seminar_5.1\obj\Debug\net6.0\Seminar_5.1.genruntimeconfig.cache
+C:\Users\13035\OneDrive\Рабочий стол\Git\Seminars\Seminar_5.1\obj\Debug\net6.0\ref\Seminar_5.1.dll
